@@ -1,0 +1,6 @@
+路径:
+steam路径\userdata\steamID\730\local\cfg
+澪=916983752
+
+启动项:
+-high -novid -nojoy -refresh 240 -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 +exec auto.cfg

@@ -1,0 +1,42 @@
+"VideoConfig"
+{
+	"setting.cl_gib_allow"	              尸体效果	
+	"setting.cl_particle_fallback_base"	光晕	
+	"setting.cl_particle_fallback_multiplier"	粒子	
+	"setting.cl_ragdoll_maxcount"	                布娃娃系统	
+	"setting.cl_ragdoll_self_collision"               冲撞		
+	"setting.mat_forceaniso"	                纹理过滤	（1-8 建议保持文件内的1）
+	"setting.mat_mip_linear"                            线性贴图		
+	"setting.stream_memory"		纹理串流预算（这个数值不好改建议保持文件内的）
+	"setting.mat_picmip"		              图形纹理
+	"setting.particle_cpu_level"	             cpu优先级	
+	"setting.r_createmodeldecals"		模型贴花
+	"setting.r_decals"		              贴花
+	"setting.r_lod_switch_scale"		模型细节
+	"setting.shader_lods_enable"		着色器lods启用
+	"setting.shadow_enable"		阴影启用
+	"setting.shadow_depth_dimen_min"	阴影深度尺寸最小值	
+	"setting.shadow_depth_upres_factor_max"	阴影深度尺寸最大值	
+	"setting.shadow_maxdynamic"		阴影最大动态
+	"setting.ssao_enabled"		环境光
+	"setting.ssao_downsample"		环境光等级
+	"setting.dvs_enable"		                自适应分辨率帧数
+	"setting.dvs_gpuframetime_min"	自适应分辨率帧数最小值	
+	"setting.dvs_gpuframetime_max"	自适应分辨率帧数最大值	
+	"setting.defaultres"		"2560"   （分辨率）
+	"setting.defaultresheight"		"1440" （分辨率）
+	"setting.fullscreen"		                   全屏（0关闭1开启，开了全屏1 无边框记得改0）
+	"setting.nowindowborder"		无边框
+	"setting.volumetric_lighting"		 体积光
+	"setting.mat_vsync_mode"		垂直同步
+	"setting.mat_backbuffer_count"	三重缓冲	
+	"setting.mat_antialias_mode"		抗锯齿
+	"setting.csm_enabled"		阴影
+	"setting.csm_coverage"		阴影范围等级
+	"setting.csm_cascade_res"		动态范围大小
+	"setting.fadeDistScale"		设置音量  
+	"setting.dvs_supersample_enable"	超级采样	
+	"setting.gamma"		                 亮度      （这个建议游戏里调好 然后打开文件记住你现在习惯的亮度数值 填到这一栏里）
+
+	"setting.configversion"	                配置版本
+} 
